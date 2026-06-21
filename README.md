@@ -30,14 +30,6 @@ Data Parity Check
 Gold Star Schema
         ↓
 Analytics Mart
-        ↓
-Power BI Dashboard
-
----
-
-# Workflow
-
-![Workflow](images/workflow.png)
 
 ---
 
